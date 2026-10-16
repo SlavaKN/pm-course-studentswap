@@ -14,3 +14,5 @@
 
 - [Проєктний опис — `project-brief.md`](project-brief.md)
 - [Класифікація проєкту та аналіз його оточення — `project-classification.md`](project-classification.md)
+- - [Життєвий цикл проєкту](project-lifecycle.md)
+  
